@@ -12,10 +12,12 @@ public class Main{
 
         System.out.print("Enter Student id: ");
         int id = sc.nextInt();
+        sc.nextLine();
         System.out.println("Enter Student Name: ");
-        String name = sc.next();
+        String name = sc.nextLine();
         System.out.println("Enter Student age:");
         int age = sc.nextInt();
+        sc.nextLine();
         System.out.println("Enter Student department:");
         String department = sc.nextLine();
         System.out.print("Enter number of subjects: ");
