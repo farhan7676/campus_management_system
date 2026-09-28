@@ -35,5 +35,13 @@ public class ScholarshipStudent extends Student {
     public void displayStudentInfo(boolean showMarks){
         super.displayStudentInfo(showMarks);
     }
+    @Override 
+    public void generateReport(){
+        System.out.println("Scholarship Student Report Card");
+    }
+    @Override 
+    public void eligibleforScholarship(){
+        System.out.println("Scholarship Student is eligible for scholarship");
+    }
 
 }

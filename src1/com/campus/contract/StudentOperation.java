@@ -1,6 +1,6 @@
 package com.campus.contract;
 
 public interface StudentOperation {
-    void generatereport();
-    void eligibleForScholarship();
+    void generateReport();
+    void eligibleforScholarship();
 }
