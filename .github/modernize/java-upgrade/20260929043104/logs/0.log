@@ -1,0 +1,11 @@
+2026-09-29T04:31:04.603Z [INFO] ----------------------invoke appmod-list-mavens----------------------
+2026-09-29T04:31:04.605Z [INFO] [Tool.invoke]({name: appmod-list-mavens, modelId: auto, input: {
+  "includeVersion": true,
+  "additionalSearchPaths": [],
+  "projectPath": "c:\\Users\\Farhan\\Downloads\\farhaan\\campus_management_system"
+}}).
+2026-09-29T04:31:04.605Z [INFO] [Tool.invoke] do invoke.
+2026-09-29T04:31:06.127Z [INFO] [Tool.invoke]({result: {
+  "message": "We found following maven installations in your system:\n\n1. Maven 3.9.16\n   📁 Path: C:\\Users\\Farhan\\.maven\\maven-3.9.16\\bin\n   🏷️ Source: install\n\nTotal: 1 Maven installation(s) found"
+}}).
+2026-09-29T04:31:06.128Z [INFO] ----------------------invoked appmod-list-mavens----------------------
